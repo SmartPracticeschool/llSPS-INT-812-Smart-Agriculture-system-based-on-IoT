@@ -8,7 +8,7 @@ organization = "3vssjp" #replace the ORG ID
 deviceType = "IoT_Device_947"#replace the Device type wi
 deviceId = "IoT_947"#replace Device ID
 authMethod = "token"
-authToken = "6295417215" #Replace the authtoken
+authToken = "#######" #Replace the authtoken
 
 def myCommandCallback(cmd): # function for Callback
         print("Command received: %s" % cmd.data)
