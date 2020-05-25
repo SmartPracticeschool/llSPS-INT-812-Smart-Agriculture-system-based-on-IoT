@@ -1,0 +1,2 @@
+In this project, motor or pump in the agriculture ﬁeld is monitored from web or android application based on the weather condition with the help of Internet of Things.  The data from the sensors kept in the agriculture ﬁeld or the current weather  information from the openweather API are colected and based on the collected data the  motors are monitored from home only using IoT.
+Follow the Project_report.pdf for more details.
